@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/jKffgNq7FXNMYMLl37/giphy.gif"  />
+<img align="right" height="250" src="https://images.steamusercontent.com/ugc/867361615400236892/7A53D8885185243C1B073C55115E32BFD4C3E0E0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
