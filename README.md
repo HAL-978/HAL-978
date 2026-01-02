@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hal</h2>
+<h2 align="left">Hi 👋! My name is Retr0</h2>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Augustin978.Augustin978&"  />
